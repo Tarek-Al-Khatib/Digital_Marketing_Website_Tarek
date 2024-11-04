@@ -1,0 +1,11 @@
+.header {
+  width: 800px;
+  margin: 0 auto;
+  padding: 50px;
+  height: 400px;
+  text-align: center;
+}
+
+.header h2 {
+  font-size: 18px;
+}
