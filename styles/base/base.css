@@ -45,3 +45,7 @@
 .wrap {
   flex-wrap: wrap;
 }
+
+.gap {
+  gap: 20px;
+}
