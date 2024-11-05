@@ -16,6 +16,9 @@
   font-size: 18px;
 }
 
+.header-img {
+  width: 200px;
+}
 .expertise {
   height: 700px;
   border-radius: 0px 0px 200px 200px;

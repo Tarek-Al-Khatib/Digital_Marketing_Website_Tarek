@@ -49,3 +49,7 @@
 .gap {
   gap: 20px;
 }
+
+.uppercase {
+  text-transform: uppercase;
+}
