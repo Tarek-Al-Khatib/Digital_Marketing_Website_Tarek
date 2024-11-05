@@ -100,3 +100,48 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.deliverables {
+  background-color: #4d94e6;
+  padding: 50px;
+  text-align: center;
+  position: relative;
+}
+
+.section-title-deliver {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.section-content-deliver {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+
+.step {
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  text-align: left;
+}
+
+.icon {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 50%;
+  color: #1ac6ff;
+  font-size: 2em;
+  padding: 15px;
+  margin-right: 20px;
+}
+
+.text h3 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.text p {
+  font-size: 1em;
+  color: #c2e9ef;
+}
