@@ -238,6 +238,26 @@
 
 .section-content-methodology p:hover {
   background-color: rgba(255, 255, 255, 0.1);
-  border-color: #35bbdf; /* Change border color on hover */
+  border-color: #35bbdf;
   color: white;
+}
+
+@media screen and (max-width: 1300px) {
+  .section-content-expertise p {
+    margin: 10px;
+    padding: 20px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .section-content-expertise p {
+    margin: 10px;
+    padding: 10px;
+    justify-content: center;
+    font-size: 11px;
+  }
+
+  .section-content-methodology p {
+    flex-basis: 100%;
+  }
 }
